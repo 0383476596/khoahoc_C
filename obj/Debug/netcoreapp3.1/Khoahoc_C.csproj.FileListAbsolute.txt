@@ -1,0 +1,13 @@
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\bin\Debug\netcoreapp3.1\Khoahoc_C.exe
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\bin\Debug\netcoreapp3.1\Khoahoc_C.deps.json
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\bin\Debug\netcoreapp3.1\Khoahoc_C.runtimeconfig.json
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\bin\Debug\netcoreapp3.1\Khoahoc_C.runtimeconfig.dev.json
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\bin\Debug\netcoreapp3.1\Khoahoc_C.dll
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\bin\Debug\netcoreapp3.1\Khoahoc_C.pdb
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\obj\Debug\netcoreapp3.1\Khoahoc_C.csprojAssemblyReference.cache
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\obj\Debug\netcoreapp3.1\Khoahoc_C.AssemblyInfoInputs.cache
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\obj\Debug\netcoreapp3.1\Khoahoc_C.AssemblyInfo.cs
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\obj\Debug\netcoreapp3.1\Khoahoc_C.csproj.CoreCompileInputs.cache
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\obj\Debug\netcoreapp3.1\Khoahoc_C.dll
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\obj\Debug\netcoreapp3.1\Khoahoc_C.pdb
+C:\Users\MINH TONG\Desktop\Khoahoc_C\Khoahoc_C\obj\Debug\netcoreapp3.1\Khoahoc_C.genruntimeconfig.cache
