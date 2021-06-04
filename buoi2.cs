@@ -4,6 +4,8 @@ namespace Khoahoc_C
 {
     class Program
     {
+        private static string _KetQua_B;
+
         static void Main()
         {    //Phan1_1();
              //Phan1_2();
